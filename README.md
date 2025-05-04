@@ -8,12 +8,8 @@
 
 - 🔭 I’m a back end and game Developer
 - 🌱 I’m always learning
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
 - 😄 Pronouns: He/Him
 - 💬 I speak: Spanish :es: & English :uk:
-<!-- - ⚡ Fun fact: ... -->
 - 📫 How to reach me: [alrompin98@gmail.com](mailto:alrompin98@gmail.com)
 
 ## Social Media
