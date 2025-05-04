@@ -2,7 +2,7 @@
 
 <!-- **AlvaroRomeral/aromeral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a: Front End Programmer & Web Designer and Developer | Webmaster | Web Artist
+<!--I'm a: Front End Programmer & Web Designer and Developer | Webmaster | Web Artist -->
 
 ## Here are some ideas to get you started:
 
